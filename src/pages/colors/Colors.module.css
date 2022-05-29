@@ -1,0 +1,38 @@
+.grid {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  justify-content: center;
+  grid-gap: 5px;
+  margin-top: 5px;
+}
+
+.gridItem1 {
+  height: 24px;
+  width: 24px;
+  background-color: #322aa5;
+  cursor: pointer;
+}
+.gridItem2 {
+  height: 24px;
+  width: 24px;
+  background-color: #44a52a;
+  cursor: pointer;
+}
+.gridItem3 {
+  height: 24px;
+  width: 24px;
+  background-color: #a5992a;
+  cursor: pointer;
+}
+.gridItem4 {
+  height: 24px;
+  width: 24px;
+  background-color: #a52a34;
+  cursor: pointer;
+}
+.gridItem5 {
+  height: 24px;
+  width: 24px;
+  background-color: #d634bd;
+  cursor: pointer;
+}
